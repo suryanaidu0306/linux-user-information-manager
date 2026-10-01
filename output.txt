@@ -1,0 +1,30 @@
+========================================
+      LINUX USER INFORMATION MANAGER
+========================================
+
+Current User:
+valle-surya
+
+User Information:
+uid=1000(valle-surya) gid=1000(valle-surya) groups=1000(valle-surya),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),114(lpadmin)
+
+Home Directory:
+/home/valle-surya
+
+Current Logged-in Users:
+valle-surya seat0        2026-10-01 06:20 (login screen)
+valle-surya tty2         2026-10-01 06:20 (tty2)
+
+Last Login Information:
+valle-su tty2         tty2             Thu Oct  1 06:20   still logged in
+valle-su seat0        login screen     Thu Oct  1 06:20   still logged in
+reboot   system boot  7.0.0-34-generic Thu Oct  1 06:18   still running
+valle-su tty2         tty2             Wed Sep 30 06:26 - crash  (23:51)
+valle-su seat0        login screen     Wed Sep 30 06:26 - crash  (23:51)
+
+wtmp begins Tue Apr  7 12:36:31 2026
+
+Groups:
+valle-surya adm cdrom sudo dip plugdev users lpadmin
+
+User Information Check Completed.
